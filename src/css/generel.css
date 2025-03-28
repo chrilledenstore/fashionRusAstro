@@ -305,6 +305,16 @@ text-decoration: none;
         font-size: 2rem;
     }
 
+    .purchase_box p {
+        font-size: 1rem;
+        font-weight: normal;
+    }
+
+    .purchase_box label {
+        font-size: 1rem;
+        font-weight: bold;
+    }
+
 .product_list {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
